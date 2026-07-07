@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Dana 👋
 
-<!--
-**DanaZaid5/DanaZaid5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology student at **King Saud University**.
 
-Here are some ideas to get you started:
+I'm passionate about building practical software and continuously expanding my skills. I enjoy working across different areas of development, from web and mobile applications to data-driven solutions, while always exploring new technologies and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 Currently Learning
+
+- Mobile Development
+- Full-Stack Development
+- Data Analysis
+- Software Engineering
+
+# 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- PHP
+- SQL
+
+### Technologies & Tools
+- Flutter
+- Firebase
+- Node.js
+- HTML & CSS
+- MySQL
+- Git & GitHub
+- Figma
+
+# 🤝 Let's Connect
+
+📍 Riyadh, Saudi Arabia  
+📧 danaalsalami2022@gmail.com  
+💼 www.linkedin.com/in/dana-alsalami-435481288
